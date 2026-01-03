@@ -565,6 +565,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Goh You Sheng](https://shenggg2000.github.io/portfolio)
 - [Gokhul](https://gokhul.dev) - [Full Stack Engineer]
 - [Gokul Raja](https://gokul-raja84.github.io)
+- [Gparth Sharma](https://parthhin.me) [Full Stack & Ui/Ux Designer • 🎓Founder @ Rune]
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Greta Macri](https://gretamacri.com)
 - [Gunjan Ghate](http://techggdev.vercel.app) - [Full Stack Web2/Web3 Developer]
